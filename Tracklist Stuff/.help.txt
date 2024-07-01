@@ -22,3 +22,12 @@ Type the numbers corresponding to the order of tracks you want, separated by com
 Check the Output:
 The script will create a file named tracklist.txt in the specified folder with the title of the track list
 and the name and start and end times of each song based on the order you provided.
+
+
+Example of how your tracklist output will look using this script:
+# MyTracklist
+
+Track2.mp3 : 0:00 - 3:45
+Track1.mp3 : 3:45 - 7:30
+Track3.mp3 : 7:30 - 10:15
+etc...
