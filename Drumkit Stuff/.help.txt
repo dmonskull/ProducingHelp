@@ -14,3 +14,10 @@ When asked, type 1 to use the folder name as the drumkit name or 2 to enter a cu
 
 Check the Output:
 The script will create a file named drumkit_description.txt in the specified folder with the folder structure and file counts.
+
+Example of how your Drumkit list output will look using this script:
+# MyDrumkit
+
+Kicks : 3
+Snares : 3
+HiHats : 3
