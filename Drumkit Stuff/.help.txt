@@ -1,0 +1,16 @@
+- HOW TO USE kit.py -
+
+Type the following command and press Enter:
+python kit.py
+
+Enter Folder Path:
+When prompted to enter the path of the folder containing your drumkit, you can drag and drop the folder into the Command Prompt window.
+Open the File Explorer, find the folder, click and drag the folder into the Command Prompt window, and release the mouse button.
+This will automatically paste the folder path into the Command Prompt.
+Press Enter.
+
+Choose Drumkit Name:
+When asked, type 1 to use the folder name as the drumkit name or 2 to enter a custom name.
+
+Check the Output:
+The script will create a file named drumkit_description.txt in the specified folder with the folder structure and file counts.

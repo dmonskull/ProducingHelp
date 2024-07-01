@@ -1,0 +1,24 @@
+- HOW TO USE tracklist.py -
+
+Type the following command and press Enter:
+
+python tracklist.py
+
+Enter Folder Path:
+When prompted to enter the path of the folder containing your Track list, you can drag and drop the folder into the Command Prompt window.
+Open the File Explorer, find the folder, click and drag the folder into the Command Prompt window, and release the mouse button.
+This will automatically paste the folder path into the Command Prompt.
+Press Enter.
+
+Choose Track list Name:
+When asked, type 1 to use the folder name as the track list name or 2 to enter a custom name.
+
+List Tracks:
+The script will list all audio tracks found in the folder with numbers.
+
+Enter Track Order:
+Type the numbers corresponding to the order of tracks you want, separated by commas, and press Enter.
+
+Check the Output:
+The script will create a file named tracklist.txt in the specified folder with the title of the track list
+and the name and start and end times of each song based on the order you provided.
