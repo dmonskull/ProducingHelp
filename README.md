@@ -10,4 +10,4 @@ to help you on your producing adventures! <3
 *** MUST HAVE INSTALLED ***
 FFMPEG - Windows (download the .zip for it and open ffmpeg-master-latest-win64-gpl, then open bin folder, then copy ffmpeg to "Tracklist Stuff" Folder)
 Python 3.10
-pip install mutagen pydub
+pip install mutagen pydub pytube
