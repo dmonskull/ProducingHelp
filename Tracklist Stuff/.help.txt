@@ -27,7 +27,7 @@ and the name and start and end times of each song based on the order you provide
 Example of how your tracklist output will look using this script:
 # MyTracklist
 
-Track2.mp3 : 0:00 - 3:45
-Track1.mp3 : 3:45 - 7:30
-Track3.mp3 : 7:30 - 10:15
+Track2 : 0:00 - 3:45
+Track1 : 3:45 - 7:30
+Track3 : 7:30 - 10:15
 etc...
